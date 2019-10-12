@@ -8,3 +8,5 @@ I like GIT.
 软件可以迭代，回滚；
 可以在其他的电脑上git和push；
 can show to other friend.
+
+2）在自己的电脑上clone,修改再git.
