@@ -2,3 +2,9 @@ today is 2019/10/12 13:10.
 my name is zhangbinbin.
 good luck with me!
 I like GIT.
+/***************log****************/
+1)今天计划学习GIT，之后自己编辑的代码可以放到这个里面;
+优点:
+软件可以迭代，回滚；
+可以在其他的电脑上git和push；
+can show to other friend.
